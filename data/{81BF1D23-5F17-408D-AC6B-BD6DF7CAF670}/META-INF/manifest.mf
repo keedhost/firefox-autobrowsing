@@ -1,0 +1,212 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CdlbzEzkuha+ZNKJskPzDA==
+SHA1-Digest: xl9nv6LmaEW39A6h+AXOWa/u7Ks=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e8vOoPlmcj3+5e2m4GGO3Q==
+SHA1-Digest: O5BqSpTjA0deNRQtk5WsaTN8Cug=
+
+Name: License-Freeware.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Xnw3sFCGDGa51V5lvYu3Cg==
+SHA1-Digest: KfDzlU3RpVNQ1eWuKw8QBzZ2qR4=
+
+Name: chrome/imacros.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R5pSCB+W4OUjaglba8I3eg==
+SHA1-Digest: DvLVe1erTpay6ceJYa8gnCUQpaY=
+
+Name: components/nsiMacros.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Sau+M8isCZvB5dYFuJhYqQ==
+SHA1-Digest: hRc4VkvrcplGzvjben33dy27Oio=
+
+Name: defaults/preferences/defaults.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SZw3fyQWruS4aKvNOlDDDQ==
+SHA1-Digest: nSOwETJFHn2WTsXkUb/e8RRNNy4=
+
+Name: modules/rijndael.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yutBkcUjI90ee9XYPwZA5A==
+SHA1-Digest: 5Ih5o3fwT9AUqDm1WTzR620qCdw=
+
+Name: modules/SOAPClient.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gXkUPTQljgtXlYpzcXL3SQ==
+SHA1-Digest: qE+L8RtDJ1IHJr26Sa3pvLFV7Ew=
+
+Name: modules/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JeGfgJffy/JhqviCTsQHIg==
+SHA1-Digest: 1BoM2K80YykCaTydsoUytZrH5I0=
+
+Name: samples/Profiler.xsl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hhf5cICtuHg3xiFil7+H/g==
+SHA1-Digest: h5as31ubm6uHqz1MV3bgKFWOgko=
+
+Name: samples/Datasources/Address.csv
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BB5NgeZKs/4s1Ye7liQwpw==
+SHA1-Digest: jxGowNJgUW1SYVmPlnFAb5th0ME=
+
+Name: samples/Macros/ArchivePage.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZoFXxN9X9sFnvTfO+IxqpQ==
+SHA1-Digest: 7ZR4f/Kb7SvHLMrTZKul6+LK/XY=
+
+Name: samples/Macros/Download.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3WO9iJTiCFgRpWctTcdmlw==
+SHA1-Digest: LkQGvg17aULlJ71QKHMWaYiOO7Q=
+
+Name: samples/Macros/Eval.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hcQttgXhYrc3YUVMTl2n0Q==
+SHA1-Digest: +qQM8VQpV8hvBv5aKQPSloVtGyw=
+
+Name: samples/Macros/Extract.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +vqeWiHtLoCfyMnSpZNGmw==
+SHA1-Digest: VDDaUOjRmluXnwvKaVANLnSfk8w=
+
+Name: samples/Macros/ExtractAndFill.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: teHvrvr4KiMzDlO+K6DL+Q==
+SHA1-Digest: 2zfi8YlfzHbBdlydxkmRVEmmnGs=
+
+Name: samples/Macros/ExtractRelative.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fSv+NYDVy9zZsTDM9uzNlA==
+SHA1-Digest: s+VmXueJwMEr2kHqhcwLEsfGB50=
+
+Name: samples/Macros/ExtractTable.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xbINwhHKZs/DKLCegxfGhw==
+SHA1-Digest: t5OGea/EpnLNeTtcfqfbEIZueDc=
+
+Name: samples/Macros/ExtractURL.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AOnRGrnum0Rv8kBh3YmVTg==
+SHA1-Digest: ZCbsMjHn6sDptXX0V3RQB+Uq648=
+
+Name: samples/Macros/FillForm-XPath.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 71AFyb6aZouiLg07sjn8uw==
+SHA1-Digest: N7likrh4IV+5wdY/ze6XMAOKcaQ=
+
+Name: samples/Macros/FillForm.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /eRDswE/IYtKtH4U5Tt4Tg==
+SHA1-Digest: xbckOuC8lGtaRlhdGTnYlw63Fyk=
+
+Name: samples/Macros/Filter.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ej3MSQoOa8zJ3Af5+mnkLA==
+SHA1-Digest: DYkTtUrrUInHRD2HiBpSKs+qezk=
+
+Name: samples/Macros/Frame.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gf9kfqekk9KXC4oeoGTu2A==
+SHA1-Digest: AxsCdlADiv7UtUdSVgBzkJpMLsE=
+
+Name: samples/Macros/Javascript-Dialogs.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ORbH1/+G3FW8vKj7+t0gaQ==
+SHA1-Digest: wuA+Hm6tB2D+G2FU+ij1hhS1uU0=
+
+Name: samples/Macros/Loop-Csv-2-Web.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8MdzGSNn90UxPWr2nEc5Mg==
+SHA1-Digest: BfbE5PiQzpzg/c2xMhqkSeXy+YQ=
+
+Name: samples/Macros/Open6Tabs.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9skpSQ9jc6tvx7deYNd7iQ==
+SHA1-Digest: dg3UcpoPJtZANLfJLtyW2vTKRdU=
+
+Name: samples/Macros/SaveAs.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 70C9vDRM8za0m0vaKE6OEQ==
+SHA1-Digest: WVSHZgB04oj5CfPzi//ssgbI9vA=
+
+Name: samples/Macros/SavePDF.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mUy41S7A8Szficc9Q06ypg==
+SHA1-Digest: QXKrB4NlrGMVzlSLPDVIx8u/oAg=
+
+Name: samples/Macros/SaveTargetAs.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vKm8l7NchxI+fsb29D6j2Q==
+SHA1-Digest: AfJS5yCC+z0Hf1DYQcT1Oug1WAk=
+
+Name: samples/Macros/Self-Test.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +5Ybn7PJc3Wo/hpnU87/lg==
+SHA1-Digest: ZKfFxvKnx2ZWeVvCd39Qj1693uc=
+
+Name: samples/Macros/SI-Get-Exchange-Rate.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FRjoehCW3hkuDtcveF6R6A==
+SHA1-Digest: 9BWSi3H90jij9cLscYAyqvgp2nk=
+
+Name: samples/Macros/SI-Run-Test.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8RuIDxQtcXOwLdVtNCUbBQ==
+SHA1-Digest: xHceVYMdXoZfN2t6p29ple/SfmM=
+
+Name: samples/Macros/SI-Send-Macro-Code.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IPft+XH8JmTchxqboJPXHw==
+SHA1-Digest: DdcI7EbpZOeQeVxM5QwaGpHi3Qw=
+
+Name: samples/Macros/SI-Test-Macro1.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sbBuP6PltMDFkRokGJI3sg==
+SHA1-Digest: DwoU6LunbMRhdFL5OL1OE+VVHU4=
+
+Name: samples/Macros/SI-Test-Macro2.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Fav+hkxEFi30Pipccz2NcA==
+SHA1-Digest: hs4Ei6JU0RhQBMh5drjjbGa/6Sw=
+
+Name: samples/Macros/SlideShow.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: V20WEEVuAvVeWsJdnPCBwg==
+SHA1-Digest: 1vFvJQNYtxYgx4Tv111ZlEz1t14=
+
+Name: samples/Macros/Stopwatch.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BN2BbAcMWUL0Dg7GbspNSw==
+SHA1-Digest: 2uGFhc0L8cvVMRmqAUUt79dmGkQ=
+
+Name: samples/Macros/Tabs.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4hwbHd/CDO5uccNwkPwqHQ==
+SHA1-Digest: WXZUnix6KXRW6W9NCF994Q1DJQs=
+
+Name: samples/Macros/TagPosition.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xerhVbiltiENYbFeTnVV3g==
+SHA1-Digest: b8y+pI9m8KBpjfEh3B73Z3Hbyzk=
+
+Name: samples/Macros/TakeScreenshot-FX.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7vlmYZumXXnQF7XKfDH4pg==
+SHA1-Digest: 3hFbj7cQHXnB9aNrwNnzjyQFZoA=
+
+Name: samples/Macros/Upload.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 50L/HmDQ0N3fEWaIhOipUA==
+SHA1-Digest: E4tWkzVtc0kgCBMtAw+DU2K7Gz4=
+
+Name: samples/Macros/Wsh-Extract-Rate.iim
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H6vtj5o2oE3JRwwL3VEd3g==
+SHA1-Digest: aSkqURvhxsWZDdEJuVdRtHkyZUA=
+

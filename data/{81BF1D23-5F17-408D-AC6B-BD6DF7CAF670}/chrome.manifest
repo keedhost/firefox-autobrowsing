@@ -1,0 +1,56 @@
+overlay	chrome://browser/content/browser.xul	chrome://imacros/content/browserOverlay.xul
+overlay chrome://mozapps/content/downloads/unknownContentType.xul chrome://imacros/content/downloadOverlay.xul
+
+style chrome://global/content/customizeToolbar.xul chrome://imacros/skin/imacros.css
+
+content	imacros	jar:chrome/imacros.jar!/content/
+skin 	imacros   classic/1.0 	jar:chrome/imacros.jar!/skin/
+resource imacros modules/
+
+
+
+# TCP SI Command Listener
+component {b7077add-ce38-40a6-82c8-eddbeaed99b0} components/nsiMacros.js
+contract @iopus.com/sicmdlistener;1 {b7077add-ce38-40a6-82c8-eddbeaed99b0}
+
+
+# iMacros RequestWatcher
+component {e4a28173-828d-486e-937c-4c8e4d7a8511} components/nsiMacros.js
+contract @iopus.com/requestwatcher;1 {e4a28173-828d-486e-937c-4c8e4d7a8511}
+
+
+# iMacrosProtocol 
+component {d32d50cf-ec60-4758-b945-44e208f27120} components/nsiMacros.js
+contract @mozilla.org/network/protocol;1?name=imacros {d32d50cf-ec60-4758-b945-44e208f27120}
+
+# iMacrosStorage
+component {40048f63-da21-4398-bf21-5bdecac8869f} components/nsiMacros.js
+contract @iopus.com/storage;1 {40048f63-da21-4398-bf21-5bdecac8869f}
+
+# iMacrosPasswordManager
+component {38f6b153-a27f-473e-98a9-03541bc9979f} components/nsiMacros.js
+contract @iopus.com/password-manager;1 {38f6b153-a27f-473e-98a9-03541bc9979f}
+
+# CmdlineHandler
+component {5d5a54d9-729b-40a2-b876-3462a09eb4b8} components/nsiMacros.js
+contract @iopus.com/cmdlinehandler;1 {5d5a54d9-729b-40a2-b876-3462a09eb4b8}
+
+
+category content-policy RequestWatcher @iopus.com/requestwatcher;1
+category net-channel-event-sinks RequestWatcher @iopus.com/requestwatcher;1
+category command-line-handler CmdlineHandler @iopus.com/cmdlinehandler;1
+category profile-after-change SICmdListener @iopus.com/sicmdlistener;1
+
+
+locale	imacros	en-US	jar:chrome/imacros.jar!/locale/en-US/
+locale	imacros	ru-RU	jar:chrome/imacros.jar!/locale/ru-RU/
+locale	imacros	de-DE	jar:chrome/imacros.jar!/locale/de-DE/
+locale	imacros	nl-NL	jar:chrome/imacros.jar!/locale/nl-NL/
+locale	imacros	fr-FR	jar:chrome/imacros.jar!/locale/fr-FR/
+locale	imacros	pl-PL	jar:chrome/imacros.jar!/locale/pl-PL/
+locale	imacros	es-ES	jar:chrome/imacros.jar!/locale/es-ES/
+locale	imacros	ko-KR	jar:chrome/imacros.jar!/locale/ko-KR/
+locale	imacros	zh-TW	jar:chrome/imacros.jar!/locale/zh-TW/
+locale	imacros	zh-CN	jar:chrome/imacros.jar!/locale/zh-CN/
+locale	imacros	it-IT	jar:chrome/imacros.jar!/locale/it-IT/
+locale	imacros	pt-BR	jar:chrome/imacros.jar!/locale/pt-BR/
